@@ -2,17 +2,40 @@
 2 どんな編集をしたらいいかわからないが hoge
 4 hoge
 3 コンフリクトするのは怖い hoge
-5 hoge
+3 コンフリクトするのは怖い hoge
+3 コンフリクトするのは怖い hoge
+3 コンフリクトするのは怖い hoge
+3 コンフリクトするのは怖い hoge
+3 コンフリクトするのは怖い hoge
+3 コンフリクトするのは怖い hoge
+3 コンフリクトするのは怖い hoge
+5 hogeht
 6 hoge
 7 hoge
-9 hoge
+9 hogetgtr
+1
+2
+3
 8 hoge
-10 hoge
+10 hogetbt
 11 hoge
 12 hoge
 13 hoge
 14 hoge
 15 hoge
+10 hogetbt
+11 hoge
+12 hoge
+13 hoge
+14 hoge
+15 hoge
+10 hogetbt
+11 hoge
+12 hoge
+13 hoge
+14 hoge
+15 hoge
+<<<<<<< HEAD
 
 afafasdfsaidofiofjioas
 
@@ -23,3 +46,7 @@ fasdfafdsafaf
 fasfaegreagerg
 
 fwagaergaeriash
+=======
+課題
+課題
+>>>>>>> 6dd1905b1e19096e31ef1d9be31fd30ba26bb4bb
