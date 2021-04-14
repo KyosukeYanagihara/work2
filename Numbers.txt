@@ -6,6 +6,9 @@
 6 hoge
 7 hoge
 9 hoge
+1
+2
+3
 8 hoge
 10 hoge
 11 hoge
