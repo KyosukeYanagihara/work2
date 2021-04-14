@@ -35,7 +35,6 @@
 13 hoge
 14 hoge
 15 hoge
-<<<<<<< HEAD
 
 afafasdfsaidofiofjioas
 
@@ -46,7 +45,5 @@ fasdfafdsafaf
 fasfaegreagerg
 
 fwagaergaeriash
-=======
 課題
 課題
->>>>>>> 6dd1905b1e19096e31ef1d9be31fd30ba26bb4bb
